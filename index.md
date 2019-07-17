@@ -1,4 +1,41 @@
-## Welcome to GitHub Pages
+校园网，长城宽带，广电网无法使用软件。MAC不建议使用
+
+活动价只对新用户（老用户只能到期换邮箱注册才活动价）
+
+官网：[点击前往](https://www.accelerator-vy.org/zh/vyprvpn/world-cup-special?offer_id=235&aff_id=3987) 
+
+活动地址：
+
+首月半价：[点击前往](https://www.accelerator-vy.org/zh/special/vpn-promo?offer_id=193&aff_id=3987) （约34和45元仅仅是第一个月半价）
+
+年费6折：[点击前往](https://www.accelerator-vy.org/zh/vyprvpn/world-cup-special?offer_id=235&aff_id=3987) （约245和332元）
+
+注册问题：
+
+1、不是实名注册，名字随便写
+
+2、电子邮箱就是账号
+
+3、邮政编码可以不写
+
+地址无法打开的话，可以使用Google Chrome浏览器打开活动地址
+
+
+客户端:
+
+PC：点击前往
+
+安卓：点击前往
+
+IOS：点击前往（国外商店）
+
+MAC：点击前往
+
+常见问题
+
+PC端设置教程
+
+
 
 You can use the [editor on GitHub](https://github.com/wangluojiasu/go/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
