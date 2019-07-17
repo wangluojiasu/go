@@ -5,6 +5,7 @@
 官网：<a href="https://www.accelerator-vy.org/zh/vyprvpn/world-cup-special?offer_id=235&amp;aff_id=3987" target="_blank" rel="noopener noreferrer nofollow">点击前往</a>
 
 活动地址：
+
 首月半价：<a href="https://www.accelerator-vy.org/zh/special/vpn-promo?offer_id=193&amp;aff_id=3987" target="_blank" rel="noopener noreferrer nofollow">点击前往</a>（约34和45元仅仅是第一个月半价）
 
 年费6折：<a href="https://www.accelerator-vy.org/zh/vyprvpn/world-cup-special?offer_id=235&amp;aff_id=3987" target="_blank" rel="noopener noreferrer nofollow">点击前往 </a>（约245和332元）
@@ -21,7 +22,6 @@
 
 <img src="https://uploader.shimo.im/f/uTnBNeY6UzspW8lh.jpg!thumbnail" width="500" height="auto" data-src="https://uploader.shimo.im/f/uTnBNeY6UzspW8lh.jpg!thumbnail" />
 
-付款成功还提示，账号锁定就等20分钟左右解锁。
 
 <strong>客户端:</strong>
 
@@ -55,7 +55,7 @@ MAC：<a href="https://www.accelerator-vy.org/downloads/vyprvpn/desktop/mac/prod
 
 推荐南韩日本洛杉矶。
 
-PC端使用的时候最好退了360卫士，要么安装腾讯管家，360卫士会拦截软件连接，腾讯管家不会
+PC端使用的时候最好退了360卫士，360卫士会拦截软件连接
 
 <strong>安卓手机</strong>
 
