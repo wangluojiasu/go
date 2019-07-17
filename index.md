@@ -4,13 +4,13 @@
 
 官网：<a href="https://www.accelerator-vy.org/zh/vyprvpn/world-cup-special?offer_id=235&amp;aff_id=3987" target="_blank" rel="noopener noreferrer nofollow">点击前往</a>
 
-活动地址：
+<strong>活动地址：</strong>
 
 首月半价：<a href="https://www.accelerator-vy.org/zh/special/vpn-promo?offer_id=193&amp;aff_id=3987" target="_blank" rel="noopener noreferrer nofollow">点击前往</a>（约34和45元仅仅是第一个月半价）
 
 年费6折：<a href="https://www.accelerator-vy.org/zh/vyprvpn/world-cup-special?offer_id=235&amp;aff_id=3987" target="_blank" rel="noopener noreferrer nofollow">点击前往 </a>（约245和332元）
 
-注册问题：
+<strong>注册问题：</strong>
 
 1、不是实名注册，名字随便写
 
@@ -20,7 +20,7 @@
 
 地址无法打开的话，可以使用Google Chrome浏览器打开活动地址
 
-<img src="https://uploader.shimo.im/f/uTnBNeY6UzspW8lh.jpg!thumbnail" width="500" height="auto" data-src="https://uploader.shimo.im/f/uTnBNeY6UzspW8lh.jpg!thumbnail" />
+<img src="https://liewuba.com/wp-content/uploads/2019/07/156909979763039490.jpg" width="500" height="auto" data-src="https://liewuba.com/wp-content/uploads/2019/07/156909979763039490.jpg" />
 
 
 <strong>客户端:</strong>
@@ -35,7 +35,7 @@ MAC：<a href="https://www.accelerator-vy.org/downloads/vyprvpn/desktop/mac/prod
 
 <strong>PC端设置教程</strong>
 
-<img src="https://uploader.shimo.im/f/tgJEP4thPkQqge9s.jpg!thumbnail" width="1353" height="auto" data-src="https://uploader.shimo.im/f/tgJEP4thPkQqge9s.jpg!thumbnail" />
+<img src="https://liewuba.com/wp-content/uploads/2019/07/2019.jpg" width="1353" height="auto" data-src="https://liewuba.com/wp-content/uploads/2019/07/2019.jpg" />
 
 1、中间图片箭头
 
